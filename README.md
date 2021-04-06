@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Saurabh Kumar.
 - 👀 I’m interested in Web Development and Algorithm Solving.
-- 🌱 I’m currently studing in Lovely Professional University. 
+- 🌱 I’m currently studying in Lovely Professional University. 
 - 📫 How to reach me thesaurabh4714@gmail.com
 
 <!---
